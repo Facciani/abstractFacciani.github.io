@@ -9,7 +9,7 @@ header{
     color: white;
     display: flex;
     align-items: center;
-    height: 5%;
+    height: 8%;
     font-size: 103%;
 }
 
@@ -92,7 +92,7 @@ button[type="submit"] {
 }
 
 form {
-    width: 27%;
+    width: 38%;
     height: 100%;
     color: #555;
     display: flex;
@@ -143,17 +143,12 @@ footer .info ul li {
 footer .info .info2{
     width: 100%;
     margin-top: 50%;
-    margin-left: 50%;
+    margin-left: 30%;
 }
 
 .logoimgfooter{
     width: 23%;
     height: 20%;
-    
-}
-
-.copyright{
-    float:right;
 }
 
 
@@ -178,8 +173,8 @@ footer .info .info2{
 }
   
 .ab-img{
-    height: 13%;
-    width: 13%;
+    height: 14%;
+    width: 14%;
     float: left;
     margin-right: 10px;
     clear:both;
